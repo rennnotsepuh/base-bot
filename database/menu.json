@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "harga": 25000,
+      "id": 1,
+      "name": "menu 1",
+      "star": 4
+    },
+    {
+      "harga": 30000,
+      "id": 2,
+      "name": "menu 2",
+      "star": 4
+    },
+    {
+      "harga": 20000,
+      "id": 3,
+      "name": "menu 3",
+      "star": 5
+    },
+    {
+      "harga": 15000,
+      "id": 4,
+      "name": "menu 4",
+      "star": 3
+    }
+  ],
+  "open": true
+}
